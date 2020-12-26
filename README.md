@@ -12,5 +12,8 @@
 - 🔗[反转链表](https://github.com/fivejokers/alg/blob/main/7.js)
 
 ## 双指针遍历/滑动窗口
+
 - 🔗[无重复字符的最长子串](https://github.com/fivejokers/alg/blob/main/8.js)
-- 🔗[无重复字符的最长子串](https://github.com/fivejokers/alg/blob/main/8.js)
+- 🔗[盛最多水的容器](https://github.com/fivejokers/alg/blob/main/9.js)
+- 🔗[三数之和](https://github.com/fivejokers/alg/blob/main/10.js)
+- 🔗[最接近的三数之和](https://github.com/fivejokers/alg/blob/main/10.js)
