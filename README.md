@@ -16,4 +16,10 @@
 - 🔗[无重复字符的最长子串](https://github.com/fivejokers/alg/blob/main/8.js)
 - 🔗[盛最多水的容器](https://github.com/fivejokers/alg/blob/main/9.js)
 - 🔗[三数之和](https://github.com/fivejokers/alg/blob/main/10.js)
-- 🔗[最接近的三数之和](https://github.com/fivejokers/alg/blob/main/10.js)
+- 🔗[最接近的三数之和](https://github.com/fivejokers/alg/blob/main/11.js)
+- 🔗[删除排序数组中的重复项](https://github.com/fivejokers/alg/blob/main/12.js)
+- 🔗[接雨水](https://github.com/fivejokers/alg/blob/main/13.js) 待处理
+- 🔗[买卖股票的最佳时机](https://github.com/fivejokers/alg/blob/main/14.js)
+- 🔗[长度最小的子数组](https://github.com/fivejokers/alg/blob/main/15.js)
+
+
