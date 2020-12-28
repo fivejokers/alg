@@ -22,4 +22,8 @@
 - 🔗[买卖股票的最佳时机](https://github.com/fivejokers/alg/blob/main/14.js)
 - 🔗[长度最小的子数组](https://github.com/fivejokers/alg/blob/main/15.js)
 
+## 快慢指针遍历
 
+- 🔗[环形链表](https://github.com/fivejokers/alg/blob/main/16.js)
+- 🔗[快乐数](https://github.com/fivejokers/alg/blob/main/17.js)
+- 🔗[链表的中间结点](https://github.com/fivejokers/alg/blob/main/18.js)
