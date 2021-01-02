@@ -27,3 +27,12 @@
 - 🔗[环形链表](https://github.com/fivejokers/alg/blob/main/16.js)
 - 🔗[快乐数](https://github.com/fivejokers/alg/blob/main/17.js)
 - 🔗[链表的中间结点](https://github.com/fivejokers/alg/blob/main/18.js)
+
+## 合并区间
+
+- 🔗[合并区间](https://github.com/fivejokers/alg/blob/main/19.js)
+
+## 字符串操作
+
+- 🔗[Z 字形变换](https://github.com/fivejokers/alg/blob/main/20.js)
+- 🔗[最长公共前缀](https://github.com/fivejokers/alg/blob/main/21.js)
