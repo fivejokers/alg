@@ -36,3 +36,11 @@
 
 - 🔗[Z 字形变换](https://github.com/fivejokers/alg/blob/main/20.js)
 - 🔗[最长公共前缀](https://github.com/fivejokers/alg/blob/main/21.js)
+- 🔗[划分字母区间](https://github.com/fivejokers/alg/blob/main/22.js)
+
+## 数字操作
+- 🔗[整数反转](https://github.com/fivejokers/alg/blob/main/23.js)
+- 🔗[字符串转换整数 ](https://github.com/fivejokers/alg/blob/main/24.js)
+- 🔗[回文数](https://github.com/fivejokers/alg/blob/main/25.js)
+- 🔗[字符串相乘](https://github.com/fivejokers/alg/blob/main/26.js)
+- 🔗[阶乘后的零](https://github.com/fivejokers/alg/blob/main/27.js)
