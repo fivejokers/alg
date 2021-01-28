@@ -54,9 +54,22 @@
 - 🔗[使数组唯一的最小增量](https://github.com/fivejokers/alg/blob/main/31.js)
 
 ## 递归
+
 - 🔗[合并两个有序链表](https://github.com/fivejokers/alg/blob/main/34.js)
 - 🔗[对称二叉树](https://github.com/fivejokers/alg/blob/main/35.js)
 - 🔗[二叉树的最大深度](https://github.com/fivejokers/alg/blob/main/36.js)
+- 🔗[翻转二叉树](https://github.com/fivejokers/alg/blob/main/37.js)
+- 🔗[二叉树的最近公共祖先](https://github.com/fivejokers/alg/blob/main/38.js)
+
+## 分治法/二分法
+
+- 🔗[合并 K 个升序链表](https://github.com/fivejokers/alg/blob/main/39.js)
+- 🔗[搜索旋转排序数组](https://github.com/fivejokers/alg/blob/main/40.js)
+- 🔗[在排序数组中查找元素的第一个和最后一个位置](https://github.com/fivejokers/alg/blob/main/41.js)
+
+## 动态规划
+
+- 🔗[最长回文子串](https://github.com/fivejokers/alg/blob/main/42.js) 待解决
 
 <!--
 待解决
